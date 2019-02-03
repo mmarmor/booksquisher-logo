@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="55"
+   height="90"
+   viewBox="0 0 55.000002 90.000001"
+   id="svg4136"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="booksquisher-clamp-white.svg"
+   inkscape:export-filename="C:\Users\marmo\Desktop\book-publishing\project\logo\Final\booksquisher-clamp-white.png"
+   inkscape:export-xdpi="335.0087"
+   inkscape:export-ydpi="335.0087">
+  <title
+     id="title4178">Booksquisher Logo</title>
+  <defs
+     id="defs4138">
+    <linearGradient
+       id="linearGradient5669"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5671" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#0000d7"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="39.55357"
+     inkscape:cy="39.227099"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata4141">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Booksquisher Logo</dc:title>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Attribution 4.0 International (CC BY 4.0)</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Michael S. Marmor</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-9.5339015,-736.01766)">
+    <g
+       id="g3387">
+      <g
+         style="fill:#ffffff"
+         transform="matrix(0.17331937,0,0,0.17331937,-9.6634719,737.27797)"
+         id="g4685">
+        <g
+           style="fill:#ffffff"
+           id="g4687">
+          <path
+             style="fill:#ffffff"
+             id="path4689"
+             d="m 392.704,460.8 c -3.712,0 -6.869,2.372 -8.047,5.683 -0.597,1.698 -2.167,2.85 -3.968,2.85 l -51.985,0 c -2.355,0 -4.267,-1.911 -4.267,-4.267 l 0,-76.8 c 0,-2.355 -1.911,-4.267 -4.267,-4.267 l -42.667,0 c -2.355,0 -4.267,1.911 -4.267,4.267 l 0,76.8 c 0,2.355 -1.911,4.267 -4.267,4.267 l -69.052,0 c -1.801,0 -3.362,-1.152 -3.968,-2.85 -1.178,-3.311 -4.335,-5.683 -8.047,-5.683 -4.71,0 -8.533,3.823 -8.533,8.533 l 0,17.067 c 0,4.71 3.823,8.533 8.533,8.533 3.712,0 6.869,-2.372 8.047,-5.683 0.597,-1.698 2.167,-2.85 3.968,-2.85 l 69.052,0 c 2.355,0 4.267,1.911 4.267,4.267 l 0,17.067 c 0,2.355 1.911,4.267 4.267,4.267 l 42.667,0 c 2.355,0 4.267,-1.911 4.267,-4.267 l 0,-17.067 c 0,-2.355 1.911,-4.267 4.267,-4.267 l 51.985,0 c 1.801,0 3.362,1.152 3.968,2.85 1.178,3.311 4.335,5.683 8.047,5.683 4.71,0 8.533,-3.823 8.533,-8.533 l 0,-17.067 c 0,-4.71 -3.823,-8.533 -8.533,-8.533 z"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         style="fill:#ffffff"
+         transform="matrix(0.17331937,0,0,0.17331937,-9.6634719,737.27797)"
+         id="g4703">
+        <g
+           style="fill:#ffffff"
+           id="g4705">
+          <path
+             style="fill:#ffffff"
+             id="path4707"
+             d="m 341.504,290.133 -128,0 0,-213.333 119.467,0 c 4.71,0 8.533,-3.823 8.533,-8.533 C 341.504,22.963 295.569,0 204.971,0 c -61.85,0 -94.208,96.188 -94.208,191.206 0,45.841 7.672,88.073 21.598,118.912 16.785,37.171 41.89,56.815 72.61,56.815 l 136.533,0 c 4.71,0 8.533,-3.823 8.533,-8.533 l 0,-59.733 c 0,-4.711 -3.823,-8.534 -8.533,-8.534 z"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         style="fill:#ffffff"
+         transform="matrix(0.17331937,0,0,0.17331937,-9.6634719,737.27797)"
+         id="g4709" />
+      <g
+         style="fill:#ffffff"
+         transform="matrix(0.17331937,0,0,0.17331937,-9.6634719,737.27797)"
+         id="g4711" />
+      <g
+         style="fill:#ffffff"
+         transform="matrix(0.17331937,0,0,0.17331937,-9.6634719,737.27797)"
+         id="g4713" />
+      <g
+         style="fill:#ffffff"
+         transform="matrix(0.17331937,0,0,0.17331937,-9.6634719,737.27797)"
+         id="g4715" />
+      <g
+         style="fill:#ffffff"
+         transform="matrix(0.17331937,0,0,0.17331937,-9.6634719,737.27797)"
+         id="g4717" />
+      <g
+         style="fill:#ffffff"
+         transform="matrix(0.17331937,0,0,0.17331937,-9.6634719,737.27797)"
+         id="g4719" />
+      <g
+         style="fill:#ffffff"
+         transform="matrix(0.17331937,0,0,0.17331937,-9.6634719,737.27797)"
+         id="g4721" />
+      <g
+         style="fill:#ffffff"
+         transform="matrix(0.17331937,0,0,0.17331937,-9.6634719,737.27797)"
+         id="g4723" />
+      <g
+         style="fill:#ffffff"
+         transform="matrix(0.17331937,0,0,0.17331937,-9.6634719,737.27797)"
+         id="g4725" />
+      <g
+         style="fill:#ffffff"
+         transform="matrix(0.17331937,0,0,0.17331937,-9.6634719,737.27797)"
+         id="g4727" />
+      <g
+         style="fill:#ffffff"
+         transform="matrix(0.17331937,0,0,0.17331937,-9.6634719,737.27797)"
+         id="g4729" />
+      <g
+         style="fill:#ffffff"
+         transform="matrix(0.17331937,0,0,0.17331937,-9.6634719,737.27797)"
+         id="g4731" />
+      <g
+         style="fill:#ffffff"
+         transform="matrix(0.17331937,0,0,0.17331937,-9.6634719,737.27797)"
+         id="g4733" />
+      <g
+         style="fill:#ffffff"
+         transform="matrix(0.17331937,0,0,0.17331937,-9.6634719,737.27797)"
+         id="g4735" />
+      <g
+         style="fill:#ffffff"
+         transform="matrix(0.17331937,0,0,0.17331937,-9.6634719,737.27797)"
+         id="g4737" />
+      <g
+         style="fill:#ffffff"
+         transform="matrix(0.07319422,0,0,0.07319422,28.112691,751.5301)"
+         id="g3533">
+        <g
+           style="fill:#ffffff"
+           id="g3469">
+          <g
+             style="fill:#ffffff"
+             id="g3471">
+            <path
+               style="fill:#ffffff"
+               inkscape:connector-curvature="0"
+               d="m 114.505,124.542 287.911,-0.012 0,-26.997 -287.911,0.023 c -33.898,0 -46.504,-9.038 -46.504,-33.373 0,-31.266 12.413,-33.531 32.848,-33.531 2.189,0 4.338,0.035 6.481,0.076 2.189,0.035 4.338,0.07 6.422,0.07 l 288.688,0 0,-26.997 -288.688,0 c -1.938,0 -3.936,-0.041 -5.979,-0.076 -2.271,-0.035 -4.583,-0.07 -6.913,-0.07 -16.371,0 -59.845,0 -59.845,60.528 10e-4,40.059 24.727,60.359 73.49,60.359 z"
+               id="path3473" />
+            <rect
+               style="fill:#ffffff"
+               x="97.597"
+               y="40.304001"
+               width="287.957"
+               height="8.9680004"
+               id="rect3475" />
+            <rect
+               style="fill:#ffffff"
+               x="97.597"
+               y="59.050999"
+               width="287.957"
+               height="8.9680004"
+               id="rect3477" />
+            <rect
+               style="fill:#ffffff"
+               x="97.597"
+               y="78.925003"
+               width="287.957"
+               height="8.9680004"
+               id="rect3479" />
+            <path
+               style="fill:#ffffff"
+               inkscape:connector-curvature="0"
+               d="m 480.245,316.135 -383.594,0 c -2.569,0 -5.237,-0.047 -7.94,-0.082 -3.013,-0.047 -6.083,-0.094 -9.196,-0.094 -21.737,0 -79.515,0 -79.515,80.42 0,53.236 32.859,80.211 97.656,80.211 l 382.589,-0.023 0,-35.873 -382.589,0.023 c -45.045,0 -61.784,-12.016 -61.784,-44.35 0,-41.559 16.488,-44.548 43.643,-44.548 2.908,0 5.774,0.047 8.612,0.094 2.902,0.046 5.751,0.093 8.524,0.093 l 383.593,0 0,-35.871 z"
+               id="path3481" />
+            <rect
+               style="fill:#ffffff"
+               x="75.189003"
+               y="366.112"
+               width="382.63599"
+               height="8.9680004"
+               id="rect3483" />
+            <rect
+               style="fill:#ffffff"
+               x="75.189003"
+               y="391.03101"
+               width="382.63599"
+               height="8.9680004"
+               id="rect3485" />
+            <rect
+               style="fill:#ffffff"
+               x="75.189003"
+               y="417.44501"
+               width="382.63599"
+               height="8.967"
+               id="rect3487" />
+            <path
+               style="fill:#ffffff"
+               inkscape:connector-curvature="0"
+               d="m 391.813,291.998 c 2.709,0.047 5.442,0.093 8.232,0.093 19.478,0 71.242,0 71.242,-72.053 0,-47.701 -29.438,-71.878 -87.484,-71.878 l -342.787,0.023 0,32.141 342.787,-0.023 c 40.332,0 55.35,10.76 55.35,39.737 0,37.232 -14.771,39.906 -39.107,39.906 -2.604,0 -5.195,-0.023 -7.718,-0.082 -2.616,-0.035 -5.173,-0.082 -7.649,-0.082 l -343.663,0 0,32.136 343.674,0 c 2.289,0 4.672,0.047 7.123,0.082 z"
+               id="path3489" />
+            <rect
+               style="fill:#ffffff"
+               x="61.088001"
+               y="238.627"
+               width="342.82199"
+               height="8.9619999"
+               id="rect3491" />
+            <rect
+               style="fill:#ffffff"
+               x="61.088001"
+               y="216.30701"
+               width="342.82199"
+               height="8.9680004"
+               id="rect3493" />
+            <rect
+               style="fill:#ffffff"
+               x="61.088001"
+               y="192.655"
+               width="342.82199"
+               height="8.9680004"
+               id="rect3495" />
+          </g>
+        </g>
+        <g
+           style="fill:#ffffff"
+           id="g3497" />
+        <g
+           style="fill:#ffffff"
+           id="g3499" />
+        <g
+           style="fill:#ffffff"
+           id="g3501" />
+        <g
+           style="fill:#ffffff"
+           id="g3503" />
+        <g
+           style="fill:#ffffff"
+           id="g3505" />
+        <g
+           style="fill:#ffffff"
+           id="g3507" />
+        <g
+           style="fill:#ffffff"
+           id="g3509" />
+        <g
+           style="fill:#ffffff"
+           id="g3511" />
+        <g
+           style="fill:#ffffff"
+           id="g3513" />
+        <g
+           style="fill:#ffffff"
+           id="g3515" />
+        <g
+           style="fill:#ffffff"
+           id="g3517" />
+        <g
+           style="fill:#ffffff"
+           id="g3519" />
+        <g
+           style="fill:#ffffff"
+           id="g3521" />
+        <g
+           style="fill:#ffffff"
+           id="g3523" />
+        <g
+           style="fill:#ffffff"
+           id="g3525" />
+      </g>
+    </g>
+  </g>
+</svg>
