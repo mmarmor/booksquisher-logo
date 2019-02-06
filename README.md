@@ -14,7 +14,11 @@ Sub-elements used to create the logo can be found in the `inkscape-source/sub-el
 
 * [Construction Clamp SVG Vector](https://www.svgrepo.com/svg/252432/construction-clamp) (LICENSING: Creative Commons BY 4.0)
 
-## Licensing
+Booksquisher User's Guide Favicon
+
+* The favicon design used in the web version of the the [Booksquisher User's Guide](https://www.booksquisher.com/) was created by [Dave Gandy](https://www.flaticon.com/authors/dave-gandy) and licensed under Creative Commons BY 3.0
+
+## Licensing for the Booksquisher Logo
 
 LICENSE: [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
