@@ -18,13 +18,13 @@
    viewBox="0 0 550 550.00001"
    xml:space="preserve"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="users-guide-favicon-inkscape.svg"
-   inkscape:export-filename="C:\Users\marmo\Desktop\book-publishing\project\booksquisher-logo\favicon\iPhone-6-Plus.png"
-   inkscape:export-xdpi="29.454546"
-   inkscape:export-ydpi="29.454546"><metadata
+   sodipodi:docname="booksquisher-users-guide-favicon-inkscape.svg"
+   inkscape:export-filename="C:\Users\marmo\Desktop\book-publishing\project\booksquisher-users-guide\images\favicon\older-iPhone.png"
+   inkscape:export-xdpi="19.636364"
+   inkscape:export-ydpi="19.636364"><metadata
      id="metadata41"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /><cc:license
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title><cc:license
            rdf:resource="http://creativecommons.org/licenses/by/3.0/" /></cc:Work><cc:License
          rdf:about="http://creativecommons.org/licenses/by/3.0/"><cc:permits
            rdf:resource="http://creativecommons.org/ns#Reproduction" /><cc:permits
@@ -39,7 +39,7 @@
      objecttolerance="10"
      gridtolerance="10"
      guidetolerance="10"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -47,7 +47,7 @@
      showgrid="false"
      borderlayer="true"
      inkscape:zoom="0.49637083"
-     inkscape:cx="-63.460111"
+     inkscape:cx="-364.64622"
      inkscape:cy="237.72549"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
